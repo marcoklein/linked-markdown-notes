@@ -1,6 +1,6 @@
 # Linking Markdown Notes with TypeScript
 
-Read the blog post article at https://kleinprojects.com/linking-markdown-notes-with-typescript/.
+Read the blog post article on [Kleinprojects](https://kleinprojects.com/linking-markdown-notes-with-typescript/) or on [Medium](https://medium.com/@marcoklein/linking-markdown-notes-with-typescript-3403c84b4068).
 
 ## Prerequisite
 
